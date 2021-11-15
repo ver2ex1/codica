@@ -1,0 +1,19 @@
+.contentPlus {
+  height: 100vh;
+  display: inline;
+  align-items: center;
+  justify-content: center;
+}
+
+.tempContent {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+.tempInfo {
+  display: inline;
+  width: calc(100% / 8);
+}
